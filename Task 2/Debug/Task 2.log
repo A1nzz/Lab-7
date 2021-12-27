@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\Lab 7\Task 2\Source.cpp(32): warning C4715: conversionFromAddToReverse: значение возвращается не при всех путях выполнения
+  Task 2.vcxproj -> D:\Projects\Lab 7\Debug\Task 2.exe

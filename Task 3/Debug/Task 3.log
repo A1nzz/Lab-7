@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Projects\Lab 7\Task 3\Source.cpp(21,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\Lab 7\Task 3\Source.cpp(22,51): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Task 3.vcxproj -> D:\Projects\Lab 7\Debug\Task 3.exe
